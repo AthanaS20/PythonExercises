@@ -1,2 +1,2 @@
 # PythonExercises
-This repository is about my course in Python and the exercises.
+Esse repositório é sobre meu curso de python e seus exercícios.
