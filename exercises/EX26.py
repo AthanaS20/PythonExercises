@@ -1,0 +1,7 @@
+frase = str(input('Digite uma frase insíradora:')).upper()
+a = frase.count('O')
+b = frase.find('A')
+c = frase.count('A'[:5])
+print('A letra O aparece {} vezes na frase.'.format(a))
+print('A primeira letra A está posicionada em {} lugar.'.format(b))
+print('A ultima letra A está posicionada em {} lugar'.format(c))
