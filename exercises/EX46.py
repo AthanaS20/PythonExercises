@@ -14,4 +14,3 @@ pygame.mixer.music.load('/home/athana/Documentos/GitHub/PythonExercises/exercise
 pygame.mixer.music.play()
 input()
 pygame.event.wait()
-#print('FELIZ 2023!!')
