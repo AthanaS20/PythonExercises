@@ -7,7 +7,7 @@ termo = PrimeiroTermo
 contador = 1
 while contador <= 10:
     print('{}'.format(termo), end=' -> ')
-    termo += termo
+    termo += razao
     contador += 1
     
 print('FINISH')
