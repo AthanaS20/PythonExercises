@@ -7,6 +7,7 @@ samples = sample(numeros, 5)
 print(f'Os valores sorteados foram: {samples}')
 
 print(f'O maior entre eles é {max(samples)}')
+print(f'O menor entre eles é {min(samples)}')
 
 
 
