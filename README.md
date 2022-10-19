@@ -1,2 +1,2 @@
 # PythonExercises
-Meu nome é Athana e esse repositório é sobre meu curso de python do Professor Gustavo Guanabara e seus exercícios.
+My name is Athana and this project is about the Python course with professor Guanabara.
