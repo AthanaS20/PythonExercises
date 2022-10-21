@@ -1,10 +1,10 @@
-lista = []
+matriz = [[0,0,0], [0,0,0], [0,0,0]]
+for linha in range(0, 3):
+    for coluna in range(0, 3):
+        matriz[linha][coluna] = int(input(f'Digite um valor para matriz [{linha}, {coluna}]:'))
+print('*' * 35)
+for linha in range(0, 3):
+    for coluna in range(0, 3):
+        print(f'[{matriz[linha][coluna]:^5}]' , end='')
+    print()
 
-
-for num in range(1,8):
-    lista.append(int(input(f'Digite o {num}º valor:')))
-    
-
-for valores in lista:
-    if valores % 2 == 0:
-        print(lista)
